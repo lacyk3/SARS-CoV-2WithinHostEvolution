@@ -1,5 +1,5 @@
 # SARS-CoV-2WithinHostEvolution
-* Authors: Katherine Owens$^{1,2}$, Pierce Radecki$^{3}$, Stefano Tempia$^{4}$, Anne von Gottberg$^{5, 6}$, Cheryl Cohen$^{5,7}$, Eli Boritz$^{3}$, Joshua T. Schiffer$^{1,8*}$, Daniel B. Reeves$^{1,9*}$
+* Authors: Katherine Owens<sup>1,2</sup>, Pierce Radecki<sup>3</sup>, Stefano Tempia<sup>4</sup>, Anne von Gottberg<sup>5, 6</sup>, Cheryl Cohen<sup>5,7</sup>, Eli Boritz<sup>3</sup>, Joshua T. Schiffer<sup>1,8*</sup>, Daniel B. Reeves<sup>1,9*</sup>
 
 * This repository will contain supporting files for the results reported in "Transmission of mutated SARS-CoV-2 variants is favored by relatively prolonged infections due to delayed immunity," soon to be available as a preprint.
 
